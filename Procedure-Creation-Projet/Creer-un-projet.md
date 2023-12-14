@@ -76,3 +76,9 @@ symfony new monProjet --webapp
 - - Création possible d'une clé publique avec GIT GUI
 - - Copie de cette clé dans les parametres Github/Gitlab 
 - ![Image de Github](image/Github.JPG)
+
+<br></br>
+<br>
+
+---
+# 5. Gitlab création pipeline d'intégration

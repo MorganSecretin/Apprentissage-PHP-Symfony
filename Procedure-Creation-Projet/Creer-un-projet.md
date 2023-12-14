@@ -63,9 +63,16 @@ symfony new monProjet --webapp
 - Decrit le projet
 - Permet à un nouveau développeur de comprendre le projet
 - Evolue dans le temps avec le projet.
+- ![Image de Readme](image/readme.JPG)
 
 <br></br>
 <br>
 
 ---
 # 4. Création d'un dépot Github/Gitlab
+- Créé nouveau projet
+- Suivre initialisation repository
+- Utilisation d'une clé ssh si problème d'autorisation :
+- - Création possible d'une clé publique avec GIT GUI
+- - Copie de cette clé dans les parametres Github/Gitlab 
+- ![Image de Github](image/Github.JPG)
